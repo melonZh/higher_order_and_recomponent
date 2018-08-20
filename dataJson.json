@@ -1,10 +1,9 @@
 {
     "info":{
-        "title":"ract+webpack+redux 项目脚手架",
-        "name":"generator-z-react-cli",
-        "author":"曾田生",
+        "title":"高阶组件 and Recompose",
+        "name":"recompose",
+        "author":"melon",
         "license":"MIT",
-        "Github":"https://github.com/ZengTianShengZ/generator-z-react-lic.git",
-        "npm":"https://www.npmjs.com/package/generator-z-react-cli"
+        "Github":"https://github.com/melonZh/recompose.git"
     }
 }
