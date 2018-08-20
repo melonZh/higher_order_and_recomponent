@@ -1,2 +1,2 @@
-# higher_order_and_recomponent
+# higher_order_and_recompose
 learning
