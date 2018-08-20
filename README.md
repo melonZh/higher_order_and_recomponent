@@ -1,2 +1,2 @@
 # higher_order_and_recompose
-learning
+this is code for learning Higher-Order Component and Recompose
